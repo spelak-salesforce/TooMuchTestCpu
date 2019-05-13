@@ -1,0 +1,165 @@
+[
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1557772759871,
+            "changeTime": 1557772759871,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1557772759871,
+            "changeTime": 1557772759871,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1557773014881,
+            "changeTime": 1557773014881,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1557772759871,
+            "changeTime": 1557772759871,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1557773196908,
+            "changeTime": 1557773196908,
+            "contentHash": "8c5f6739ca5e493ce34244a5abad666b3fb0b4b0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example.cls",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example.cls",
+            "isDirectory": false,
+            "size": 829,
+            "modifiedTime": 1557774975445,
+            "changeTime": 1557774975445,
+            "contentHash": "2e47fd9a37fd54d6340ce4cfd2f7b03fea52f9d0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example.cls-meta.xml",
+            "isDirectory": false,
+            "size": 185,
+            "modifiedTime": 1557773014905,
+            "changeTime": 1557773014905,
+            "contentHash": "dd342026117ee72cd78375a615a3bbae6f2eeca7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example_TEST.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example_TEST.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5206,
+            "modifiedTime": 1557775400476,
+            "changeTime": 1557775400476,
+            "isWorkspace": false,
+            "contentHash": "6e20fd73c4ede2d10eacd685c58aee6f3df50a94"
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example_TEST.cls-meta.xml",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/classes/Example_TEST.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1557773196908,
+            "changeTime": 1557773196908,
+            "contentHash": "9a745b88f3166e5fda9088f6b3dac53f35cafa59",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1557772776119,
+            "changeTime": 1557772776119,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu",
+        {
+            "sourcePath": "/Users/spelak/Documents/github.com/spelak-salesforce/TooMuchTestCpu",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1557772787552,
+            "changeTime": 1557772787552,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
